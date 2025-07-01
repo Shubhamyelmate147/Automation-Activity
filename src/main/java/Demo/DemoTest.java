@@ -84,9 +84,7 @@ public class DemoTest {
             ExpectedConditions.presenceOfElementLocated(By.xpath("//android.widget.ImageView[@content-desc=\"Bank Accounts\n" +
                     "Bank details\"]")));
     BankAccounts.click();
-    //    Testing git push and pull
-    //the write Ipo
-    //adding the write Ipo
+
   }
 }
 
